@@ -1,6 +1,6 @@
 ## 📘 NLP Course Project
 
-###Phase 1: Web Crawling & Information Extraction
+### 🧪 Phase 1: Persian Scientist & Philosopher Web Crawling & Data Extractor 
 
 This project is the first phase of a multi-stage NLP pipeline focused on building a structured dataset about Persian scientists and philosophers. In this phase, we develop a web crawling system using Selenium to collect biographical texts from Persian-language web sources, primarily Wikipedia. The goal is to convert unstructured textual data into a clean, structured format aligned with a predefined JSON schema.
 
