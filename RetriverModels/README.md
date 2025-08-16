@@ -78,5 +78,6 @@ This project builds a Persian question-answering dataset from historical JSON da
 3. Use outputs for human evaluation and analysis.
 
 ## Contributers
+[Mobina Poulaei](https://github.com/MobinaPoulaei)
 Fatemeh Shahhosseini
-Mobina Pulaie
+
