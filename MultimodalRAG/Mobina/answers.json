@@ -20,7 +20,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fereydoon_Abbasi_2015.jpg/220px-Fereydoon_Abbasi_2015.jpg"
       }
     ],
-    "raw_answer": "متاسفم، در این متون به زرتشت اشاره‌ای نشده است.",
+    "raw_answer": "متاسفم، اطلاعات مربوط به درگذشت زرتشت در این متون وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "۷۷ سالگی"
   },
@@ -45,7 +45,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fereydoon_Abbasi_2015.jpg/220px-Fereydoon_Abbasi_2015.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اطلاعاتی در مورد رخدادهای کلیدی زندگی زرتشت در متن ارائه شده وجود ندارد.",
+    "raw_answer": "متاسفم، متاسفانه متن یا عکس مربوط به سوال ارائه نشده است. بنابراین نمی‌توانم پاسخ دقیقی به سوال شما بدهم.",
     "selected_answer": null,
     "correct_answer": "ملاقات با ویشتاسپ"
   },
@@ -70,7 +70,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jawad_A._Salehi.jpg/250px-Jawad_A._Salehi.jpg"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات ارائه شده، بزرگمهر در دوره قاجار زندگی می‌کرد. جواد صالحی در سال ۱۳۳۵ متولد شد و فعالیت‌های ویژه‌ای در دوران قاجاریه داشته است، از جمله امضای بیانیه ۱۲۵ استاد دانشگاه صنعتی شریف در سال ۱۳۸۸.",
+    "raw_answer": "برگزمهر در دوره قاجار می‌زیست.",
     "selected_answer": null,
     "correct_answer": "ساسانی"
   },
@@ -95,7 +95,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%D9%85%D8%B1%D8%AA%D8%B6%DB%8C_%D9%85%D8%B7%D9%87%D8%B1%DB%8C_%D8%AF%D8%B1_%D8%AC%D9%88%D8%A7%D9%86%DB%8C.jpg"
       }
     ],
-    "raw_answer": "بر اساس متن ارائه شده، به بزرگمهر نسبت داده می‌شود که **ساخت رصدخانه مراغه** را انجام داده است.",
+    "raw_answer": "ساخت رصدخانه مراغه.",
     "selected_answer": "ساخت رصدخانه مراغه",
     "correct_answer": "حل معمای شطرنج و اختراع نرد"
   },
@@ -120,7 +120,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mohsen_Jahangiri.jpg/250px-Mohsen_Jahangiri.jpg"
       }
     ],
-    "raw_answer": "نزدیک تیسفون (مردینو) در آشورستان",
+    "raw_answer": "نزدیک تیسفون (مردینو) در آشورستان.",
     "selected_answer": "نزدیک تیسفون (مردینو) در آشورستان",
     "correct_answer": "نزدیک تیسفون (مردینو) در آشورستان"
   },
@@ -195,7 +195,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/IranNaqshIRadjabOPKarthair.jpg/250px-IranNaqshIRadjabOPKarthair.jpg"
       }
     ],
-    "raw_answer": "بر اساس متن ارائه شده، جاماسپ به زمینه‌های ستاره‌شناسی و فلسفه شهرت داشت.",
+    "raw_answer": "ستاره‌شناسی و فلسفه",
     "selected_answer": "ستاره‌شناسی و فلسفه",
     "correct_answer": "ستاره‌شناسی و فلسفه"
   },
@@ -220,7 +220,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mohsen_Jahangiri.jpg/250px-Mohsen_Jahangiri.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعاتی در مورد پاول پارسی در متن ارائه شده وجود ندارد.",
+    "raw_answer": "متاسفم، هیچ‌کدام از متونی که ارائه دادم درباره پاول پارسی یا دوره زندگی‌اش اطلاعاتی ندارند.",
     "selected_answer": null,
     "correct_answer": "ساسانیان"
   },
@@ -245,7 +245,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mohsen_Jahangiri.jpg/250px-Mohsen_Jahangiri.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما در هیچ یک از متونی که ارائه دادم، اشاره‌ای به پاول پارسی و آموزش فلسفه توسط او در دربار ساسانیان وجود ندارد.",
+    "raw_answer": "متاسفم، اما در هیچ‌کدام از متونی که ارائه دادید، اطلاعاتی در مورد پاول پارسی و نحوه آموزش فلسفه توسط او در دربار ساسانیان وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "انوشیروان"
   },
@@ -270,8 +270,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mohsen_Jahangiri.jpg/250px-Mohsen_Jahangiri.jpg"
       }
     ],
-    "raw_answer": "ارژنگ",
-    "selected_answer": "ارژنگ",
+    "raw_answer": "با توجه به اطلاعات موجود در متن، هیچ اشاره‌ای به پاول پارسی یا آثار او نشده است. بنابراین، نمی‌توان پاسخ دقیقی به این سوال داد.",
+    "selected_answer": null,
     "correct_answer": "گویایی ارستو"
   },
   {
@@ -320,7 +320,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mohsen_Mostafavi_08.jpg/300px-Mohsen_Mostafavi_08.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اطلاعاتی در مورد نقش آرتاخه در هیچ‌یک از پروژه‌های ذکر شده در متن موجود یافت نشد.",
+    "raw_answer": "متاسفم، اما اطلاعات مربوط به آرتاخه در میان متن‌های ارائه شده وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "کانال خشایارشا"
   },
@@ -470,8 +470,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg"
       }
     ],
-    "raw_answer": "فریدون، شاعر و نویسنده ایرانی، در دوره‌ی اشکانیان حضور داشت.",
-    "selected_answer": null,
+    "raw_answer": "فریدون در دوران اشکانیان حضور داشت.",
+    "selected_answer": "اشکانیان",
     "correct_answer": "پیشدادیان"
   },
   {
@@ -495,7 +495,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات موجود، فریدون برای شکست دادن ضحاک با کاوه آهنگر همکاری کرد.",
+    "raw_answer": "بر اساس اطلاعات موجود، فریدون با کاوه آهنگر برای شکست دادن ضحاک همکاری کرد.",
     "selected_answer": null,
     "correct_answer": "کاوه آهنگر"
   },
@@ -520,7 +520,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعاتی درباره فریدون در مجموعه داده‌های موجود نیست.",
+    "raw_answer": "متاسفم، هیچ اطلاعاتی در مورد فریدون در مجموعه داده‌های موجود یافت نشد.",
     "selected_answer": null,
     "correct_answer": "بنیان‌گذاری شهر آمل"
   },
@@ -545,8 +545,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kaveh_Pahlavan.jpg"
       }
     ],
-    "raw_answer": "سلم، تور و ایرج",
-    "selected_answer": "سلم، تور و ایرج",
+    "raw_answer": "بر اساس متن ارائه شده، فریدون عباسی دوانی در دولت دهم معاونت رئیس‌جمهور بوده است. در این دوره، این دولت ایران را به سه بخش (سلم، تور و ایرج) تقسیم کرد.\n\nبنابراین، پاسخ صحیح گزینه \"سلم، تور و ایرج\" است.",
+    "selected_answer": null,
     "correct_answer": "سلم، تور و ایرج"
   },
   {
@@ -595,7 +595,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg/220px-Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات ارائه شده، مانی، فیلسوف، شاعر، نویسنده، پزشک، نگارگر و بنیانگذار آیین مانوی بود و به همین فعالیت‌ها شهرت داشت.",
+    "raw_answer": "بر اساس اطلاعات ارائه شده، مانی به عنوان فیلسوف، شاعر، نویسنده، پزشک و نگارگر شهرت داشت.",
     "selected_answer": null,
     "correct_answer": "نوازنده و موسیقیدان"
   },
@@ -695,8 +695,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bakha_ad_Din2.JPG/250px-Bakha_ad_Din2.JPG"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعاتی در مورد جنبش مزدکیان در متنی که ارائه دادید وجود ندارد.",
-    "selected_answer": null,
+    "raw_answer": "بر اساس اطلاعات موجود، جنبش مزدکیان هیچ‌کدام از اهداف ذکر شده را نداشت. آن‌ها با هدف ترویج آیین اشتراکی و اصلاحات اجتماعی فعالیت می‌کردند.",
+    "selected_answer": "ترویج آیین اشتراکی و اصلاحات اجتماعی",
     "correct_answer": "ترویج آیین اشتراکی و اصلاحات اجتماعی"
   },
   {
@@ -745,7 +745,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg/220px-Seal_of_Mani_%28cleaned_up%29._Seal_with_figure_of_Mani%2C_possibly_3rd_century_CE%2C_possibly_Irak._Cabinet_des_M%C3%A9dailles%2C_Paris.jpg"
       }
     ],
-    "raw_answer": "بامشاد در دوره‌ی پیشدادیان زندگی می‌کرد.",
+    "raw_answer": "بامشاد در دوره‌ی پیشدادی زندگی می‌کرد.",
     "selected_answer": "پیشدادیان",
     "correct_answer": "ساسانیان"
   },
@@ -770,7 +770,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعات مربوط به دلیل حکم اعدام ساتاسپ در این متون موجود نیست.",
+    "raw_answer": "متاسفم، این سوال در متن ارائه شده وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "دستدرازی به دختر زوپیر"
   },
@@ -795,7 +795,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg"
       }
     ],
-    "raw_answer": "موبد بلندپایه زرتشتی. \n\nبر اساس متن ارائه شده، کرتیر به عنوان یک موبد بلندپایه زرتشتی شناخته می‌شد که نقش مهمی در ارتقای این آیین ایفا کرده بود.",
+    "raw_answer": "موبد بلندپایه زرتشتی.\n\n**توضیح:** متن ارائه شده به صراحت بیان می‌کند که کرتیر یک موبد بلندپایه زرتشتی بود که نقش مهمی در ارتقاء این آیین ایفا کرد.",
     "selected_answer": null,
     "correct_answer": "موبد بلندپایه زرتشتی"
   },
@@ -870,7 +870,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg"
       }
     ],
-    "raw_answer": "برانوش، سپهدار و مهندس دوره ساسانیان بود. او که مردی جنگجو به شمار میرفت، در جنگی با سپاه ایران به فرماندهی گرزسپ، شکست خورد و اسیر شد.",
+    "raw_answer": "برانوش، سپهدار و مهندس دوره ساسانیان بود و مأمور ساخت پل شادروان (بند قیصر) بر روی رود کارون در شوشتر شد.",
     "selected_answer": null,
     "correct_answer": "سفر اکتشافی دور آفریقا"
   },
@@ -970,7 +970,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mohsen_Mostafavi_08.jpg/300px-Mohsen_Mostafavi_08.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعات مربوط به علی کاوه در متن ارائه شده وجود ندارد.",
+    "raw_answer": "متاسفم، در اطلاعات موجود هیچ اشاره‌ای به تحصیلات علی کاوه و سال‌های دریافت مدارک کارشناسی ارشد و دکترای خود از دانشگاه لندن نشده است.",
     "selected_answer": null,
     "correct_answer": "۱۳۵۰ و ۱۳۵۳"
   },
@@ -1045,8 +1045,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mohsen_Mostafavi_08.jpg/300px-Mohsen_Mostafavi_08.jpg"
       }
     ],
-    "raw_answer": "۱۳۳۵",
-    "selected_answer": "۱۳۳۵",
+    "raw_answer": "زهرا شجاعی در سال ۱۳۳۵ متولد شد.",
+    "selected_answer": null,
     "correct_answer": "۱۳۳۵"
   },
   {
@@ -1070,7 +1070,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Mohsen_Mostafavi_08.jpg/300px-Mohsen_Mostafavi_08.jpg"
       }
     ],
-    "raw_answer": "متاسفم، در اطلاعات ارائه شده هیچ اشاره‌ای به سید کریم قنبری و محل تولدش وجود ندارد.",
+    "raw_answer": "متاسفم، اطلاعاتی در مورد سید کریم قنبری در این متون وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "کرمانشاه"
   },
@@ -1120,7 +1120,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/MollaHadiSabzvari.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اطلاعاتی در مورد انجمن‌هایی که مجتبی شمسی‌پور رئیس آن‌ها بوده است، در متن ارائه شده یافت نشد.",
+    "raw_answer": "متاسفم، اطلاعاتی در مورد مجتبی شمسی‌پور و انجمن‌هایی که رئیس بوده، در متن ارائه شده وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "انجمن شیمی ایران"
   },
@@ -1145,7 +1145,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Pursina.jpg"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات موجود، ابن سینا در زمینه های مختلفی از جمله پزشکی، فلسفه، ریاضیات، اخترشناسی و سیاست فعالیت داشته است.",
+    "raw_answer": "با توجه به متن مربوط به ابن سینا، او در زمینه‌هایی مانند پزشکی، فلسفه، ریاضیات، اخترشناسی و شیمی فعالیت داشته است. بنابراین، گزینه ریاضیات و نجوم پاسخ مناسبی است.",
     "selected_answer": null,
     "correct_answer": "موسیقی و رامشگری"
   },
@@ -1170,7 +1170,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/BorzuyaArtwork.png/250px-BorzuyaArtwork.png"
       }
     ],
-    "raw_answer": "با توجه به اطلاعات موجود، پاسخ صحیح \"ستاره‌شناس\" است. برزویه، پزشک نامدار و پیشوای پزشکان ایران در دوره ساسانیان، به عنوان \"ستاره‌شناس\" نیز شناخته می‌شد.",
+    "raw_answer": "متاسفم، در هیچ‌کدام از متونی که ارائه دادید، اشاره‌ای به ماهیار ولقب او نشده است.",
     "selected_answer": null,
     "correct_answer": "گوهرفروش"
   },
@@ -1195,8 +1195,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Mohsen_Jahangiri.jpg/250px-Mohsen_Jahangiri.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اطلاعاتی در مورد آرتادخت در متونی که ارائه دادم وجود ندارد.",
-    "selected_answer": null,
+    "raw_answer": "پزشکی",
+    "selected_answer": "پزشکی",
     "correct_answer": "وزیر دارایی و اقتصاددان"
   },
   {
@@ -1245,7 +1245,7 @@
         "image": "https://tse2.mm.bing.net/th/id/OIP.6iXpJo2FitBHnDOLL501HgAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
       }
     ],
-    "raw_answer": "متاسفم، اطلاعاتی در مورد سید عباس معارف در این متون وجود ندارد.",
+    "raw_answer": "متاسفم، اطلاعاتی در مورد سید عباس معارف در متونی که در اختیار دارم وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "دوتار و تنبور"
   },
@@ -1295,8 +1295,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/13/Ehsan-Tabari.jpg/250px-Ehsan-Tabari.jpg"
       }
     ],
-    "raw_answer": "محمدمهدی اردبیلی در سال ۱۳۶۱ متولد شد.",
-    "selected_answer": null,
+    "raw_answer": "۱۳۶۱",
+    "selected_answer": "۱۳۶۱",
     "correct_answer": "۱۳۶۱"
   },
   {
@@ -1345,7 +1345,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Abolghasem-Fanae.jpg/200px-Abolghasem-Fanae.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اطلاعاتی در مورد سید تقی اخوان نیاکی در این متن وجود ندارد.",
+    "raw_answer": "متاسفم، اطلاعاتی در مورد سید تقی اخوان نیاکی در این متون وجود ندارد.",
     "selected_answer": null,
     "correct_answer": "دانشگاه صنعتی شریف"
   },
@@ -1545,7 +1545,7 @@
         "image": "https://tse2.mm.bing.net/th/id/OIP.6ljbWF5VrL--flZZ9xq-GAHaE8?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
       }
     ],
-    "raw_answer": "قم، دوران صفوی",
+    "raw_answer": "بر اساس اطلاعات موجود، محمد سعید قمی به **قم، دوران صفوی** تعلق داشت.",
     "selected_answer": "قم، دوران صفوی",
     "correct_answer": "قم، دوران صفوی"
   },
@@ -1620,7 +1620,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%D8%A2%DB%8C%D8%AA_%D8%A7%D9%84%D9%84%D9%87_%D9%85%D8%AD%D9%85%D8%AF%D8%B5%D8%A7%D9%84%D8%AD_%DA%A9%D9%85%DB%8C%D9%84%DB%8C.jpg/250px-%D8%A2%DB%8C%D8%AA_%D8%A7%D9%84%D9%84%D9%87_%D9%85%D8%AD%D9%85%D8%AF%D8%B5%D8%A7%D9%84%D8%AD_%DA%A9%D9%85%DB%8C%D9%84%DB%8C.jpg"
       }
     ],
-    "raw_answer": "متاسفانه، اطلاعاتی درباره ابوالقاسم عبدالکریم بن هوازن قشیری در متن ارائه شده وجود ندارد.",
+    "raw_answer": "متاسفم، اطلاعاتی در مورد ابوالقاسم عبدالکریم بن هوازن قشیری در متونی که در اختیار دارم یافت نشد.",
     "selected_answer": null,
     "correct_answer": "قوچان خراسان"
   },
@@ -1645,7 +1645,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Zahra_Shojaei_14000303000432637574545249916117.jpg/250px-Zahra_Shojaei_14000303000432637574545249916117.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعاتی در مورد توفیق موسیوند و اختراعاتش در متونی که به آن‌ها دسترسی داشتم، یافت نشد.",
+    "raw_answer": "متاسفم، اطلاعاتی در مورد توفیق موسیوند و اختراع او در این متون یافت نشد.",
     "selected_answer": null,
     "correct_answer": "اولین قلب مصنوعی جهان"
   },
@@ -1695,7 +1695,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Biruni-russian.jpg/250px-Biruni-russian.jpg"
       }
     ],
-    "raw_answer": "فرغانه.",
+    "raw_answer": "فرغانه",
     "selected_answer": "فرغانه",
     "correct_answer": "فرغانه"
   },
@@ -1745,7 +1745,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alireza_Mashaghi.tif/lossy-page1-220px-Alireza_Mashaghi.tif.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعاتی در مورد «کمال‌الدین فارسی» در متن‌های ارائه شده یافت نشد.",
+    "raw_answer": "متاسفم، اطلاعاتی درباره‌ی «کمال‌الدین فارسی» در این متون یافت نشد.",
     "selected_answer": null,
     "correct_answer": "ریاضیات و فیزیک"
   },
@@ -1770,7 +1770,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Alireza_Mashaghi.tif/lossy-page1-220px-Alireza_Mashaghi.tif.jpg"
       }
     ],
-    "raw_answer": "متاسفم، هیچ اطلاعاتی در مورد نظریه کمال‌الدین فارسی در این متن یافت نشد.",
+    "raw_answer": "متاسفم، اطلاعاتی درباره نظریه کمال‌الدین فارسی در دسترس نیست.",
     "selected_answer": null,
     "correct_answer": "نظریه خطای چشم"
   },
@@ -1870,7 +1870,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dr_ali_gorji.jpg/220px-Dr_ali_gorji.jpg"
       }
     ],
-    "raw_answer": "با توجه به متن ارائه شده، قطب‌الدین شیرازی بیشتر به حوزه موسیقی تعلق داشت. در متن، اشاره شده است که او از شاعر، نویسنده و جهانگرد بوده و در دوران خود، به ویژه در دوره سلجوقیان، به موسیقی و شعر پرداخته است.",
+    "raw_answer": "بر اساس متن ارائه شده، قطب‌الدین شیرازی به موسیقی تعلق داشت.",
     "selected_answer": null,
     "correct_answer": "نجوم و فیزیک"
   },
@@ -2095,7 +2095,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Stamps_of_Tajikistan%2C_030-03.jpg/250px-Stamps_of_Tajikistan%2C_030-03.jpg"
       }
     ],
-    "raw_answer": "سهروردی مؤسس حکمت متعالیه بود.",
+    "raw_answer": "حکمت متعالیه",
     "selected_answer": "حکمت متعالیه",
     "correct_answer": "حکمت اشراق"
   },
@@ -2170,8 +2170,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Moosavi-movahedi-Photo.jpg/250px-Moosavi-movahedi-Photo.jpg"
       }
     ],
-    "raw_answer": "علی‌اکبر موسوی موحدی.",
-    "selected_answer": "شفیعی کدکنی",
+    "raw_answer": "بر اساس اطلاعات موجود، علی‌اکبر موسوی موحدی عینکی است.",
+    "selected_answer": null,
     "correct_answer": "محمدرضا عارف"
   },
   {
@@ -2195,8 +2195,8 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/%D8%A2%DB%8C%D8%AA_%D8%A7%D9%84%D9%84%D9%87_%D9%85%D8%AD%D9%85%D8%AF%D8%B5%D8%A7%D9%84%D8%AD_%DA%A9%D9%85%DB%8C%D9%84%DB%8C.jpg/250px-%D8%A2%DB%8C%D8%AA_%D8%A7%D9%84%D9%84%D9%87_%D9%85%D8%AD%D9%85%D8%AF%D8%B5%D8%A7%D9%84%D8%AD_%DA%A9%D9%85%DB%8C%D9%84%DB%8C.jpg"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات موجود، محمدرضا عارف، محسن عادلی و احمدرضا دهپور فاقد مو هستند.",
-    "selected_answer": null,
+    "raw_answer": "محسن عادلی فاقد مو است.",
+    "selected_answer": "محسن عادلی",
     "correct_answer": "احمدرضا دهپور"
   },
   {
@@ -2220,7 +2220,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/39/%D8%B4%D8%B1%D9%81%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%DB%8C.jpeg/220px-%D8%B4%D8%B1%D9%81%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%DB%8C.jpeg"
       }
     ],
-    "raw_answer": "با توجه به اطلاعات موجود، شرفالدین خراسانی (شرف) در تصویر، موهایش مشکی است.",
+    "raw_answer": "با توجه به اطلاعات موجود در متن درباره علی‌اکبر موسوی موحدی، موهای ایشان مشکی است.",
     "selected_answer": null,
     "correct_answer": "مهران کاردار"
   },
@@ -2270,7 +2270,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/fa/a/a9/%D8%B9%D9%84%DB%8C_%D8%A8%D9%86_%D9%85%D8%AD%D9%85%D8%AF_%D8%B3%D9%85%D8%B1%D9%82%D9%86%D8%AF%DB%8C.jpg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعاتی در مورد رنگ موی این فلاسفه در متون ارائه شده وجود ندارد.",
+    "raw_answer": "متاسفم، اما اطلاعاتی در مورد رنگ موی فیسلوفان قرن چهارم وجود ندارد. اطلاعاتی که در اختیار دارم مربوط به سید ضیا موحد و علی‌اکبر موسوی موحدی است.",
     "selected_answer": null,
     "correct_answer": "فارابی"
   },
@@ -2295,7 +2295,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/39/%D8%B4%D8%B1%D9%81%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%DB%8C.jpeg/220px-%D8%B4%D8%B1%D9%81%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%DB%8C.jpeg"
       }
     ],
-    "raw_answer": "شرفالدین خراسانی (شرف) دارای ریش بلند است.",
+    "raw_answer": "با توجه به تصاویر ارائه شده، شرفالدین خراسانی (شرف) دارای ریش بلند است.",
     "selected_answer": null,
     "correct_answer": "زکریا رازی"
   },
@@ -2320,7 +2320,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Moosavi-movahedi-Photo.jpg/250px-Moosavi-movahedi-Photo.jpg"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات موجود در متن، سید ضیا موحد دارای ریش بلند است.",
+    "raw_answer": "بر اساس اطلاعات موجود در متون، سید ضیا موحد دارای ریش بلند است.",
     "selected_answer": null,
     "correct_answer": "محمدمهدی اردبیلی"
   },
@@ -2345,7 +2345,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/39/%D8%B4%D8%B1%D9%81%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%DB%8C.jpeg/220px-%D8%B4%D8%B1%D9%81%E2%80%8C%D8%A7%D9%84%D8%AF%DB%8C%D9%86_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86%DB%8C.jpeg"
       }
     ],
-    "raw_answer": "متاسفم، اما اطلاعات کافی برای پاسخ به این سوال در اختیار ندارم. این متن درباره مرتضی مطهری فریمانی، علی اکبر موسوی موحدی و شرفالدین خراسانی است و هیچ اطلاعاتی درباره کاوه پهلوان، محمدرضا عارف، شفیعی کدکنی و مهران کاردار ندارد.",
+    "raw_answer": "متاسفم، اما هیچ یک از این افراد در متن ارائه شده ذکر نشده‌اند. بنابراین نمی‌توانم پاسخ دقیقی ارائه دهم.",
     "selected_answer": null,
     "correct_answer": "مهران کاردار"
   },
@@ -2370,7 +2370,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%D9%85%D8%B1%D8%AA%D8%B6%DB%8C_%D9%85%D8%B7%D9%87%D8%B1%DB%8C_%D8%AF%D8%B1_%D8%AC%D9%88%D8%A7%D9%86%DB%8C.jpg"
       }
     ],
-    "raw_answer": "علی‌اکبر موسوی موحدی",
+    "raw_answer": "علی‌اکبر موسوی موحدی.",
     "selected_answer": null,
     "correct_answer": "مهران کاردار"
   },
@@ -2395,7 +2395,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Munir-od-Din_Hosseini_Hashemi_-_1979.jpg/220px-Munir-od-Din_Hosseini_Hashemi_-_1979.jpg"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات ارائه شده، هیچ‌کدام از فیزیکدانان معاصر (مریم میرزاخانی، محمدرضا عارف و داریوش رضایی) ریش ندارند. \n\nسید منیرالدین حسینی الهاشمی، روحانی و سیاستمدار، در تصاویر ارائه شده ریش دارد.\n\nزکریای رازی، دانشمند ایرانی قرون وسطا، فیزیکدان، پزشک، شیمی‌دان، ستاره‌شناس و ریاضی‌دان بود.",
+    "raw_answer": "بر اساس اطلاعات موجود، هیچ‌کدام از فیزیکدانان معاصر ذکر شده (مریم میرزاخانی، محمدرضا عارف، داریوش رضایی، زکریای رازی) ریش ندارند. این افراد در تصاویر ارائه شده، ریش ندارند.",
     "selected_answer": null,
     "correct_answer": "داریوش رضایی"
   },
@@ -2445,7 +2445,7 @@
         "image": "https://th.bing.com/th/id/R.266981b291b2c1ebee1baeab283f0c41?rik=NbLm7rjNkj9eEA&riu=http%3a%2f%2fbayanbox.ir%2fid%2f911792543978599884%3fview&ehk=Zt9TFNWM12id39m4jxMNb0EALfw1Zc3Y5Pf49Qp%2bKEk%3d&risl=&pid=ImgRaw&r=0"
       }
     ],
-    "raw_answer": "بر اساس اطلاعات ارائه شده، علی‌اکبر موسوی موحدی دارای پوست روشن است.",
+    "raw_answer": "بر اساس اطلاعات موجود در متن، علی‌اکبر موسوی موحدی دارای پوست روشن است.",
     "selected_answer": null,
     "correct_answer": "احمد کریمی حکاک"
   },
@@ -2470,7 +2470,7 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%D9%85%D8%B1%D8%AA%D8%B6%DB%8C_%D9%85%D8%B7%D9%87%D8%B1%DB%8C_%D8%AF%D8%B1_%D8%AC%D9%88%D8%A7%D9%86%DB%8C.jpg"
       }
     ],
-    "raw_answer": "متاسفم، هیچ‌کدام از ریاضیدانان معاصر فهرست شده در متن، ذکر نشده‌اند. بنابراین نمی‌توانم به این سوال پاسخ دهم.",
+    "raw_answer": "با توجه به اطلاعات موجود، نمی‌توان پاسخ دقیقی برای این سوال ارائه داد. در متن‌های ارائه شده هیچ‌کدام از ریاضیدانان ذکر شده (مریم میرزاخانی، محمدرضا عارف، شفیعی کدکنی و مهران کاردار) به طور خاص به رنگ موهایشان اشاره نشده است.",
     "selected_answer": null,
     "correct_answer": "مریم میرزاخانی"
   },
@@ -2495,7 +2495,7 @@
         "image": "https://th.bing.com/th/id/R.266981b291b2c1ebee1baeab283f0c41?rik=NbLm7rjNkj9eEA&riu=http%3a%2f%2fbayanbox.ir%2fid%2f911792543978599884%3fview&ehk=Zt9TFNWM12id39m4jxMNb0EALfw1Zc3Y5Pf49Qp%2bKEk%3d&risl=&pid=ImgRaw&r=0"
       }
     ],
-    "raw_answer": "متاسفم، اما هیچ یک از افراد ذکر شده (مریم میرزاخانی، محمدرضا عارف، شفیعی کدکنی، انوشه انصاری) در متن ارائه شده موهای قهوه‌ای دارند. عکس‌ها و اطلاعات مربوط به افراد ذکر شده نشان می‌دهد که موهای آن‌ها سفید، خاکستری یا تیره است.",
+    "raw_answer": "در متن ارائه شده، عکس فردی که موهای قهوه‌ای دارد، متعلق به علی‌اکبر موسوی موحدی است.",
     "selected_answer": null,
     "correct_answer": "انوشه انصاری"
   },
@@ -2503,7 +2503,7 @@
     "id": "qs101",
     "question": "این تصویر متعلق به کیست؟",
     "retrieved_data": [],
-    "raw_answer": "متاسفم، تصویر ارائه نشده است. لطفاً تصویر را ارائه دهید تا بتوانم به شما کمک کنم.",
+    "raw_answer": "متاسفم، من به تصویر دسترسی ندارم. بنابراین نمی‌توانم پاسخ دقیقی بدهم.",
     "selected_answer": null,
     "correct_answer": "مریم میرزاخانی"
   },
@@ -2524,19 +2524,19 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nima_Arkani-Hamed_at_Harvard.jpg/250px-Nima_Arkani-Hamed_at_Harvard.jpg"
       },
       {
-        "text": "- زهرا رهنورد: زهرا رهنورد، پژوهشگر، نویسنده و استاد زبان و ادبیات فارسی در ۲۸ مرداد سال ۱۳۲۴ در شهر بروجرد استان لرستان متولد شد. ایشان که در دوران معاصر فعالیت داشتهاند، همسر میرحسین موسوی نیز هستند و تصویر ایشان در کنار همسرشان در راهپیمایی سکوت سال ۱۳۸۸ به یاد جانباختگان اعتراضات پس از انتخابات ریاست جمهوری ثبت شده است. همچنین، تصاویری از مصاحبههای ایشان در روزنامه انقلاب اسلامی و مراسم بزرگداشت جانباختگان تظاهرات ۱۳۸۸ در دسترس است.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zahra_Rahnavard%2C_Mir_Hossein_Mousavi_and_Hamed_Saber_%28cropped-01%29.jpg/250px-Zahra_Rahnavard%2C_Mir_Hossein_Mousavi_and_Hamed_Saber_%28cropped-01%29.jpg"
+        "text": "- هاله افشار: هاله افشار، استاد علوم سیاسی، عضو مجلس اعیان بریتانیا و بنیانگذار شبکه زنان مسلمان، در ۳۱ اردیبهشت سال ۱۳۲۳ در تهران متولد شد. او که با نام مستعار \"هما امید\" نیز شناخته میشد، در سال ۱۳۳۷ در سن ۱۴ سالگی به انگلستان مهاجرت کرد. پس از پایان تحصیلات، مدتی در وزارت تعاون ایران فعالیت نمود. هاله افشار در سال ۱۳۸۴ مدال افتخار بریتانیای کبیر را به پاس خدماتش در زمینه تساوی حقوق بشر دریافت کرد و سرانجام در ۲۲ اردیبهشت سال ۱۴۰۱ درگذشت. وی همچنین به عنوان رئیس شبکه زنان مسلمان فعالیت میکرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Official_portrait_of_Baroness_Afshar_crop_2.jpg/250px-Official_portrait_of_Baroness_Afshar_crop_2.jpg"
       }
     ],
-    "raw_answer": "این تصویر متعلق به مریم میرزاخانی است.",
-    "selected_answer": "مریم میرزاخانی",
+    "raw_answer": "با توجه به تصویر و اطلاعات موجود، این تصویر متعلق به مریم میرزاخانی است. او فیزیکدانی برجسته بود که به دلیل تحقیقاتش بر روی نظریه ریسمان، جایزه پیکربندی بل بل را دریافت کرد.",
+    "selected_answer": null,
     "correct_answer": "مریم میرزاخانی"
   },
   {
     "id": "qs103",
     "question": "این تصویر متعلق به کیست؟",
     "retrieved_data": [],
-    "raw_answer": "متاسفم، بدون تصویر نمی‌توانم به این سوال پاسخ دهم. لطفاً تصویر را ارائه دهید.",
+    "raw_answer": "متاسفم، من به تصاویر دسترسی ندارم. لطفاً متن یا توضیحی در مورد تصویر ارائه دهید تا بتوانم به شما کمک کنم.",
     "selected_answer": null,
     "correct_answer": "محمدرضا عارف"
   },
@@ -2557,11 +2557,11 @@
         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Official_portrait_of_Baroness_Afshar_crop_2.jpg/250px-Official_portrait_of_Baroness_Afshar_crop_2.jpg"
       },
       {
-        "text": "- زهرا رهنورد: زهرا رهنورد، پژوهشگر، نویسنده و استاد زبان و ادبیات فارسی در ۲۸ مرداد سال ۱۳۲۴ در شهر بروجرد استان لرستان متولد شد. ایشان که در دوران معاصر فعالیت داشتهاند، همسر میرحسین موسوی نیز هستند و تصویر ایشان در کنار همسرشان در راهپیمایی سکوت سال ۱۳۸۸ به یاد جانباختگان اعتراضات پس از انتخابات ریاست جمهوری ثبت شده است. همچنین، تصاویری از مصاحبههای ایشان در روزنامه انقلاب اسلامی و مراسم بزرگداشت جانباختگان تظاهرات ۱۳۸۸ در دسترس است.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Zahra_Rahnavard%2C_Mir_Hossein_Mousavi_and_Hamed_Saber_%28cropped-01%29.jpg/250px-Zahra_Rahnavard%2C_Mir_Hossein_Mousavi_and_Hamed_Saber_%28cropped-01%29.jpg"
+        "text": "- محبوبه مباشری: محبوبه مباشری، زادهی سال ۱۳۴۰ در آبادان، پژوهشگر، نویسنده و استاد زبان و ادبیات فارسی معاصر است.",
+        "image": "https://www.iranketab.ir/Images/ProfileImages/9cebc46b8bb94ad4903bc31f116a237f.jpg"
       }
     ],
-    "raw_answer": "با توجه به متن ارائه شده، تصویر متعلق به رکسانا مصلحی انگلیسی است.",
+    "raw_answer": "تصویر متعلق به رکسانا مصلحی انگلیسی است.",
     "selected_answer": null,
     "correct_answer": "انوشه انصاری"
   },
@@ -2594,8 +2594,182 @@
     "id": "qs107",
     "question": "این تصویر متعلق به کیست؟",
     "retrieved_data": [],
-    "raw_answer": "متاسفم، اما من به تصاویر دسترسی ندارم. بنابراین نمی‌توانم به این سوال پاسخ دهم.",
+    "raw_answer": "متاسفم، بدون تصویر نمی‌توانم به این سوال پاسخ دهم. لطفا تصویر را ارائه دهید.",
     "selected_answer": null,
     "correct_answer": "علی اکبر موسوی موحدی"
+  },
+  {
+    "id": "qs108",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [
+      {
+        "text": "- احمد کریمی حکاک: احمد کریمی حکاک، نویسنده، مترجم و پژوهشگر ادبی معاصر، در ۱۶ بهمن ۱۳۲۲ در مشهد چشم به جهان گشود. وی پس از فارغالتحصیلی از دانشگاه تهران در رشته ادبیات انگلیسی در سال ۱۳۴۵، برای ادامه تحصیل به آمریکا رفت و در سال ۱۳۵۸ دکترای ادبیات تطبیقی خود را از دانشگاه راتگرز اخذ نمود. موضوع پایاننامه او «شاهنامه فردوسی در فرانسه و انگلستان ۱۷۷۰-۱۸۶۰» بود. از سال ۱۳۶۳ به آمریکا مهاجرت کرد و با دانشگاه تگزاس در آستین همکاری نمود. از سال ۱۳۸۳ نیز به عنوان استاد در دانشگاه مریلند مشغول به تدریس است. از جمله آثار او میتوان به «گزیده اشعار کارل سندبرگ»، «بلندیهای ماچوپیچو از پابلو نرودا»، «تام جونز»، «سرچشمههای داستان کوتاه فارسی» و «طلیعه تجدد در شعر فارسی» اشاره کرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ahmad_karimi-hakkak_9658.JPG/250px-Ahmad_karimi-hakkak_9658.JPG"
+      },
+      {
+        "text": "- مهدی گلشنی: مهدی گلشنی، فیزیکدان برجسته، نظریهپرداز و پژوهشگر فلسفه علم، در سال ۱۳۱۷ در شهر اصفهان متولد شد. او که در دوران معاصر فعالیت دارد، علاوه بر فیزیک، در زمینههای ترجمه، تدریس دانشگاهی و عضویت در شورای عالی انقلاب فرهنگی و فرهنگستان علوم ایران نیز نقش داشته است. گلشنی پس از فارغالتحصیلی از دانشگاه برکلی در سال ۱۳۴۸ با مدرک دکتری در رشته فیزیک (گرایش ذرات بنیادی)، در سال ۱۳۶۴ به رتبه استادی در دانشگاه صنعتی شریف ارتقا یافت. وی همچنین به عنوان چهره ماندگار در عرصه فیزیک برگزیده شد و جایزه کتاب سال جمهوری اسلامی ایران را نیز دریافت کرده است. در بهمن ماه ۱۳۹۶، وی در سخنرانی خود در دانشگاه صنعتی شریف، نسبت به افت کیفیت دانشگاهها و تمرکز بیش از حد بر چاپ مقاله انتقاد کرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/fa/6/6a/Mehdi_Golshani.jpg"
+      },
+      {
+        "text": "- مهران کاردار: مهران کاردار، فیزیکدان برجسته و استاد معاصر ایرانی، در ایران متولد شد. او که به دلیل فعالیتهای علمیاش شناخته میشود، معادله کاردر-پاریسی-جانگ را به جهان علم معرفی کرده است. از افتخارات این دانشمند میتوان به دریافت جایزه گاگنهایم در سال ۱۳۸۰ اشاره کرد که نشان از جایگاه والای او در عرصه فیزیک دارد.",
+        "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/8/85/Kardar4.gif/250px-Kardar4.gif"
+      },
+      {
+        "text": "- کاوه پهلوان: کاوه پهلوان، استاد برجسته دانشگاه و متخصص علوم رایانه، در سال ۱۳۳۰ در شهر تهران متولد شد. ایشان علاوه بر تدریس در زمینه مهندسی برق و رایانه، به عنوان بنیانگذار و مدیر مرکز مطالعات شبکههای اطلاعات بیسیم نیز فعالیت داشتهاند. پهلوان در دوران معاصر، نقش مهمی در توسعه و پیشرفت علوم رایانه در ایران ایفا نمودهاند.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kaveh_Pahlavan.jpg"
+      }
+    ],
+    "raw_answer": "این تصویر متعلق به مهران کاردار است.",
+    "selected_answer": null,
+    "correct_answer": "باقر لاریجانی"
+  },
+  {
+    "id": "qs109",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [],
+    "raw_answer": "متاسفم، من به تصویر دسترسی ندارم. بنابراین نمی‌توانم پاسخ دهم.",
+    "selected_answer": null,
+    "correct_answer": "مهرداد ششم"
+  },
+  {
+    "id": "qs110",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [
+      {
+        "text": "- میر سید علی همدانی: میر سید علی همدانی، معروف به امیر کبیر، شاه همدان، حضرت علی ثانی و قطب سلسله ذهبیه، در سوم آبان سال ۶۹۳ هجری شمسی در شهر همدان به دنیا آمد. این عالم، شاعر، صوفی و مبلغ اسلام در قرن هشتم هجری میزیست. ایشان در ۲۸ دی سال ۷۵۴ هجری شمسی درگذشت و در کولاب تاجیکستان به خاک سپرده شد. از جمله فعالیتهای مهم او میتوان به سفرهای تبلیغیاش به کشمیر در سالهای ۷۸۵ و ۷۸۶ هجری اشاره کرد، جایی که با تبلیغ اسلام، تأسیس مدرسه دینی و کتابخانه، نقش بسزایی در گسترش این دین ایفا نمود و هزاران نفر را به اسلام مشرف ساخت. او در این سفرها با قطب الدین شاهمیری نیز در ارتباط بود.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MirSyedAliHamdani.jpg"
+      },
+      {
+        "text": "- فخرالدین رازی: فخرالدین رازی، مشهور به ابن الخطیب، امام رازی، و امام المشکّکین، در سال ۵۲۷ هجری شمسی در شهر ری چشم به جهان گشود. این شخصیت برجسته عصر سلجوقیان، علاوه بر تبحر در فقه و کلام، در فلسفه، تفسیر، حکمت، پزشکی، شعر و نجوم نیز دستی داشت. از آثار ارزشمند او میتوان به تفسیر کبیر اشاره کرد. زندگی پربار او شاهد رویدادهای مهمی همچون مناظره با شرف الدین مسعودی در سمرقند پیرامون احکام نجوم در سال ۵۶۴ هجری شمسی و اخراج از خوارزم به دلیل مناظرات شدید با معتزله در حدود سال ۵۶۲ هجری شمسی بود. در سالهای پایانی عمر، فخر رازی در هرات مجمع علمی بزرگی تشکیل داد که در آن بیش از دو هزار دانشمند شرکت میکردند. سرانجام این حکیم و متکلم شهیر در سال ۵۸۷ هجری شمسی در هرات دار فانی را وداع گفت و در همان شهر به خاک سپرده شد.",
+        "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/10/Fakhrrazi.jpg/190px-Fakhrrazi.jpg"
+      },
+      {
+        "text": "- حسنعلی اصفهانی نخودکی: حسنعلی اصفهانی نخودکی، که با القابی چون نخودکی و شیخ اصفهانی نیز شناخته میشد، در سال ۱۲۴۱ هجری شمسی در شهر اصفهان متولد شد. این فقیه، فیلسوف و عارف نامدار، برای تکمیل تحصیلات خود حدود سال ۱۲۶۰ هجری شمسی به نجف اشرف عزیمت کرد و از محضر اساتیدی همچون سید محمد فشارکی، سید مرتضی کشمیری و ملا اسماعیل قرهباغی بهره برد. حسنعلی نخودکی در سالهای پایانی عمر خود در روستای نخودک در نزدیکی مشهد سکونت گزید و در هشتم شهریور سال ۱۳۲۱ هجری شمسی در مشهد درگذشت و همانجا به خاک سپرده شد. آرامگاه وی در مشهد زیارتگاه است.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%D8%AD%D8%B3%D9%86%D8%B9%D9%84%DB%8C_%D9%86%D8%AE%D9%88%D8%AF%DA%A9%DB%8C_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C.jpg/250px-%D8%AD%D8%B3%D9%86%D8%B9%D9%84%DB%8C_%D9%86%D8%AE%D9%88%D8%AF%DA%A9%DB%8C_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C.jpg"
+      },
+      {
+        "text": "- ابو علی بلعمی: ابوعلی بلعمی، وزیر دوره سامانیان، آثار ارزشمندی از خود به یادگار گذاشته که از آن جمله میتوان به \"تاریخ بلعمی\" یا \"تاریخنامه طبری\" اشاره کرد. وی در سده چهارم هجری به دستور منصور بن نوح سامانی، اقدام به ترجمه تاریخ طبری نمود. متاسفانه تاریخ دقیق تولد و محل دفن او مشخص نیست، اما مرگ او در سال ۳۶۳ قمری یا ۳۵۳ خورشیدی رخ داده است.",
+        "image": "https://cofelink.com/wp-content/uploads/2019/05/81437640-6161820.jpg"
+      }
+    ],
+    "raw_answer": "تصویر متعلق به میر سید علی همدانی (امیر کبیر) است.",
+    "selected_answer": null,
+    "correct_answer": "این سینا"
+  },
+  {
+    "id": "qs111",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [],
+    "raw_answer": "متاسفم، به عنوان یک دستیار چندوجهی، به تصاویر دسترسی ندارم. بنابراین نمی‌توانم به این سوال پاسخ دهم.",
+    "selected_answer": null,
+    "correct_answer": "ملاحسن سبزواری"
+  },
+  {
+    "id": "qs112",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [
+      {
+        "text": "- عبیدالله ابن خردادبه: عبیدالله ابن خردادبه، جغرافیدان، تاریخنویس و موسیقیدان نامدار ایرانی، در حدود سال ۲۱۱ هجری شمسی (۸۲۶ میلادی) در خراسان چشم به جهان گشود. این دانشمند برجسته که با نام \"ابن خردادبه\" نیز شناخته میشود، در دوره خلافت عباسی میزیست و مدتی به عنوان کارگزار در دستگاه عباسی و مدیریت دیوان برید پهله فعالیت داشت. او همچنین از محضر اسحاق موصلی، استاد برجسته موسیقی، بهره برد و در هنر و ادب تربیت یافت. از آثار مهم او میتوان به کتاب \"المسالک و الممالک\" اشاره کرد. در حدود سالهای ۲۵۶ تا ۲۷۰ هجری شمسی، وی در بغداد با معتمد عباسی درباره موسیقی ایرانی و دستگاههای هفتگانه آن به گفتگو پرداخت. ابن خردادبه در حدود سال ۳۰۰ هجری شمسی (۹۱۲ میلادی) درگذشت.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Khordadbeh.jpg/250px-Khordadbeh.jpg"
+      },
+      {
+        "text": "- حسنعلی اصفهانی نخودکی: حسنعلی اصفهانی نخودکی، که با القابی چون نخودکی و شیخ اصفهانی نیز شناخته میشد، در سال ۱۲۴۱ هجری شمسی در شهر اصفهان متولد شد. این فقیه، فیلسوف و عارف نامدار، برای تکمیل تحصیلات خود حدود سال ۱۲۶۰ هجری شمسی به نجف اشرف عزیمت کرد و از محضر اساتیدی همچون سید محمد فشارکی، سید مرتضی کشمیری و ملا اسماعیل قرهباغی بهره برد. حسنعلی نخودکی در سالهای پایانی عمر خود در روستای نخودک در نزدیکی مشهد سکونت گزید و در هشتم شهریور سال ۱۳۲۱ هجری شمسی در مشهد درگذشت و همانجا به خاک سپرده شد. آرامگاه وی در مشهد زیارتگاه است.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%D8%AD%D8%B3%D9%86%D8%B9%D9%84%DB%8C_%D9%86%D8%AE%D9%88%D8%AF%DA%A9%DB%8C_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C.jpg/250px-%D8%AD%D8%B3%D9%86%D8%B9%D9%84%DB%8C_%D9%86%D8%AE%D9%88%D8%AF%DA%A9%DB%8C_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C.jpg"
+      },
+      {
+        "text": "- میر سید علی همدانی: میر سید علی همدانی، معروف به امیر کبیر، شاه همدان، حضرت علی ثانی و قطب سلسله ذهبیه، در سوم آبان سال ۶۹۳ هجری شمسی در شهر همدان به دنیا آمد. این عالم، شاعر، صوفی و مبلغ اسلام در قرن هشتم هجری میزیست. ایشان در ۲۸ دی سال ۷۵۴ هجری شمسی درگذشت و در کولاب تاجیکستان به خاک سپرده شد. از جمله فعالیتهای مهم او میتوان به سفرهای تبلیغیاش به کشمیر در سالهای ۷۸۵ و ۷۸۶ هجری اشاره کرد، جایی که با تبلیغ اسلام، تأسیس مدرسه دینی و کتابخانه، نقش بسزایی در گسترش این دین ایفا نمود و هزاران نفر را به اسلام مشرف ساخت. او در این سفرها با قطب الدین شاهمیری نیز در ارتباط بود.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MirSyedAliHamdani.jpg"
+      },
+      {
+        "text": "- ابوالوفا محمد بن محمد بن یحیی بن اسماعیل بن عباس بوزجانی: ابوالوفا محمد بن محمد بن یحیی بوزجانی، ریاضیدان و ستارهشناس برجسته دوران طلایی اسلام، در سال ۳۲۸ هجری شمسی در بوژگان ایران متولد شد. او پس از سالها فعالیت علمی در بغداد، در سال ۳۸۸ هجری شمسی در همین شهر درگذشت. بوزجانی عضو دارالحکمه بغداد بود، مرکزی که نقش مهمی در پیشرفت علم در آن دوران ایفا میکرد. او همچنین به عنوان اولین کسی شناخته میشود که مطالعات دقیقی در مورد کره ماه انجام داد و توابع سینوس و کسینوس را معرفی کرد و مسائل لاینحل هندسه کلاسیک را حل کرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Buzjani%2C_the_Persian.jpg/250px-Buzjani%2C_the_Persian.jpg"
+      }
+    ],
+    "raw_answer": "این تصویر متعلق به میر سید علی همدانی، معروف به امیر کبیر است.",
+    "selected_answer": null,
+    "correct_answer": "حافظ"
+  },
+  {
+    "id": "qs113",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [
+      {
+        "text": "- مرتضی مطهری فریمانی: مرتضی مطهری فریمانی، مشهور به \"معلم شهید\"، در ۱۳ بهمن سال ۱۲۹۸ در شهر فریمان واقع در استان خراسان چشم به جهان گشود. او که در زمره روحانیون شیعه و اساتید برجسته فلسفه و کلام اسلامی بود، به عنوان نظریهپرداز نظام جمهوری اسلامی ایران نیز شناخته میشود. فعالیتهای ایشان تنها به تدریس محدود نماند؛ مطهری در تاسیس حسینیه ارشاد نقش بسزایی داشت و پس از پیروزی انقلاب، به پیشنهاد امام خمینی (ره) ریاست شورای انقلاب را بر عهده گرفت. متاسفانه، در ۱۱ اردیبهشت سال ۱۳۵۸، پس از یک جلسه، توسط گروه فرقان ترور شد و در تهران به شهادت رسید. پیش از این حادثه تلخ، او در جریان قیام ۱۵ خرداد ۱۳۴۲ به دلیل سخنرانیهای ضد حکومتی دستگیر و زندانی شده بود.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/%D9%85%D8%B1%D8%AA%D8%B6%DB%8C_%D9%85%D8%B7%D9%87%D8%B1%DB%8C_%D8%AF%D8%B1_%D8%AC%D9%88%D8%A7%D9%86%DB%8C.jpg"
+      },
+      {
+        "text": "- نُعمان بن ثابت: نُعمان بن ثابت، مشهور به ابوحنیفه، فقیه و متکلم برجسته دوران عباسی بود. او در سال ۶۰ هجری شمسی در کوفه، عراق، چشم به جهان گشود. ابوحنیفه علاوه بر فعالیتهای علمی، در عرصه سیاسی نیز نقش داشت؛ از جمله حمایت او از قیام ابراهیم بن عبدالله حسنی در بصره در سال ۱۲۵ هجری شمسی. وی سرانجام در سال ۱۳۰ هجری شمسی در بغداد درگذشت و مقبرهاش در همان شهر واقع است. از جمله آثار او میتوان به کتاب \"العالم و المتعلم\" اشاره کرد. گفتنی است که مرگ وی در زندان خلافت عباسی و به شکلی مشکوک رخ داد.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Imam_Ab%C5%AB_%E1%B8%A4an%C4%ABfa%2C_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png/220px-Imam_Ab%C5%AB_%E1%B8%A4an%C4%ABfa%2C_Sayr_mulhimah_min_al-Sharq_wa-al-Gharb.png"
+      },
+      {
+        "text": "- فخرالدین رازی: فخرالدین رازی، مشهور به ابن الخطیب، امام رازی، و امام المشکّکین، در سال ۵۲۷ هجری شمسی در شهر ری چشم به جهان گشود. این شخصیت برجسته عصر سلجوقیان، علاوه بر تبحر در فقه و کلام، در فلسفه، تفسیر، حکمت، پزشکی، شعر و نجوم نیز دستی داشت. از آثار ارزشمند او میتوان به تفسیر کبیر اشاره کرد. زندگی پربار او شاهد رویدادهای مهمی همچون مناظره با شرف الدین مسعودی در سمرقند پیرامون احکام نجوم در سال ۵۶۴ هجری شمسی و اخراج از خوارزم به دلیل مناظرات شدید با معتزله در حدود سال ۵۶۲ هجری شمسی بود. در سالهای پایانی عمر، فخر رازی در هرات مجمع علمی بزرگی تشکیل داد که در آن بیش از دو هزار دانشمند شرکت میکردند. سرانجام این حکیم و متکلم شهیر در سال ۵۸۷ هجری شمسی در هرات دار فانی را وداع گفت و در همان شهر به خاک سپرده شد.",
+        "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/10/Fakhrrazi.jpg/190px-Fakhrrazi.jpg"
+      },
+      {
+        "text": "- حسنعلی اصفهانی نخودکی: حسنعلی اصفهانی نخودکی، که با القابی چون نخودکی و شیخ اصفهانی نیز شناخته میشد، در سال ۱۲۴۱ هجری شمسی در شهر اصفهان متولد شد. این فقیه، فیلسوف و عارف نامدار، برای تکمیل تحصیلات خود حدود سال ۱۲۶۰ هجری شمسی به نجف اشرف عزیمت کرد و از محضر اساتیدی همچون سید محمد فشارکی، سید مرتضی کشمیری و ملا اسماعیل قرهباغی بهره برد. حسنعلی نخودکی در سالهای پایانی عمر خود در روستای نخودک در نزدیکی مشهد سکونت گزید و در هشتم شهریور سال ۱۳۲۱ هجری شمسی در مشهد درگذشت و همانجا به خاک سپرده شد. آرامگاه وی در مشهد زیارتگاه است.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/%D8%AD%D8%B3%D9%86%D8%B9%D9%84%DB%8C_%D9%86%D8%AE%D9%88%D8%AF%DA%A9%DB%8C_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C.jpg/250px-%D8%AD%D8%B3%D9%86%D8%B9%D9%84%DB%8C_%D9%86%D8%AE%D9%88%D8%AF%DA%A9%DB%8C_%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%DB%8C.jpg"
+      }
+    ],
+    "raw_answer": "این تصویر متعلق به حسنعلی اصفهانی نخودکی است.",
+    "selected_answer": null,
+    "correct_answer": "ملاحسن سبزواری"
+  },
+  {
+    "id": "qs114",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [],
+    "raw_answer": "متاسفم، اما بدون تصویر نمی‌توانم به این سوال پاسخ دهم. لطفا تصویر را ارائه دهید.",
+    "selected_answer": null,
+    "correct_answer": "انوشه انصاری"
+  },
+  {
+    "id": "qs115",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [
+      {
+        "text": "- احمد کریمی حکاک: احمد کریمی حکاک، نویسنده، مترجم و پژوهشگر ادبی معاصر، در ۱۶ بهمن ۱۳۲۲ در مشهد چشم به جهان گشود. وی پس از فارغالتحصیلی از دانشگاه تهران در رشته ادبیات انگلیسی در سال ۱۳۴۵، برای ادامه تحصیل به آمریکا رفت و در سال ۱۳۵۸ دکترای ادبیات تطبیقی خود را از دانشگاه راتگرز اخذ نمود. موضوع پایاننامه او «شاهنامه فردوسی در فرانسه و انگلستان ۱۷۷۰-۱۸۶۰» بود. از سال ۱۳۶۳ به آمریکا مهاجرت کرد و با دانشگاه تگزاس در آستین همکاری نمود. از سال ۱۳۸۳ نیز به عنوان استاد در دانشگاه مریلند مشغول به تدریس است. از جمله آثار او میتوان به «گزیده اشعار کارل سندبرگ»، «بلندیهای ماچوپیچو از پابلو نرودا»، «تام جونز»، «سرچشمههای داستان کوتاه فارسی» و «طلیعه تجدد در شعر فارسی» اشاره کرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ahmad_karimi-hakkak_9658.JPG/250px-Ahmad_karimi-hakkak_9658.JPG"
+      },
+      {
+        "text": "- مهدی گلشنی: مهدی گلشنی، فیزیکدان برجسته، نظریهپرداز و پژوهشگر فلسفه علم، در سال ۱۳۱۷ در شهر اصفهان متولد شد. او که در دوران معاصر فعالیت دارد، علاوه بر فیزیک، در زمینههای ترجمه، تدریس دانشگاهی و عضویت در شورای عالی انقلاب فرهنگی و فرهنگستان علوم ایران نیز نقش داشته است. گلشنی پس از فارغالتحصیلی از دانشگاه برکلی در سال ۱۳۴۸ با مدرک دکتری در رشته فیزیک (گرایش ذرات بنیادی)، در سال ۱۳۶۴ به رتبه استادی در دانشگاه صنعتی شریف ارتقا یافت. وی همچنین به عنوان چهره ماندگار در عرصه فیزیک برگزیده شد و جایزه کتاب سال جمهوری اسلامی ایران را نیز دریافت کرده است. در بهمن ماه ۱۳۹۶، وی در سخنرانی خود در دانشگاه صنعتی شریف، نسبت به افت کیفیت دانشگاهها و تمرکز بیش از حد بر چاپ مقاله انتقاد کرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/fa/6/6a/Mehdi_Golshani.jpg"
+      },
+      {
+        "text": "- مهران کاردار: مهران کاردار، فیزیکدان برجسته و استاد معاصر ایرانی، در ایران متولد شد. او که به دلیل فعالیتهای علمیاش شناخته میشود، معادله کاردر-پاریسی-جانگ را به جهان علم معرفی کرده است. از افتخارات این دانشمند میتوان به دریافت جایزه گاگنهایم در سال ۱۳۸۰ اشاره کرد که نشان از جایگاه والای او در عرصه فیزیک دارد.",
+        "image": "https://upload.wikimedia.org/wikipedia/fa/thumb/8/85/Kardar4.gif/250px-Kardar4.gif"
+      },
+      {
+        "text": "- نصراللّٰه پورجوادی: نصرالله پورجوادی، فیلسوف، استاد دانشگاه، مصحح متون و نویسنده معاصر، در ۲۷ تیر سال ۱۳۲۲ در شهر تهران چشم به جهان گشود. او که به عنوان عرفانپژوه نیز شناخته میشود، بنیانگذار مرکز نشر دانشگاهی بوده و همچنین عضویت در شورای عالی انقلاب فرهنگی و فرهنگستان زبان و ادب فارسی را نیز در کارنامه خود دارد. پورجوادی از سال ۱۳۵۹ تا ۱۳۸۲ ریاست مرکز نشر دانشگاهی را بر عهده داشت؛ مرکزی که در طول فعالیت وی، حدود ۱۵۰۰ کتاب پژوهشی را به چاپ رساند. در سال ۱۳۸۲، در دوران وزارت جعفر توفیقی، از ریاست این مرکز برکنار شد که این موضوع با واکنشهایی در رسانهها همراه بود.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Nasrollah_Pourjavady_13941106142102767.jpg/220px-Nasrollah_Pourjavady_13941106142102767.jpg"
+      }
+    ],
+    "raw_answer": "این تصویر متعلق به نصرالله پورجوادی است.",
+    "selected_answer": "انوشه انصاری",
+    "correct_answer": "عباس میلانی"
+  },
+  {
+    "id": "qs116",
+    "question": "این تصویر متعلق به کیست؟",
+    "retrieved_data": [
+      {
+        "text": "- عباس ملکزاده میلانی: عباس ملکزاده میلانی، مورخ، ایرانشناس، پژوهشگر و نویسنده معاصر، در سال ۱۳۲۸ در تهران متولد شد. او که به عضویت در سازمان انقلابی حزب توده شناخته میشد، حدود سال ۱۳۵۰ توسط ساواک دستگیر و زندانی شد، اما پس از مدتی با عفو محمدرضا شاه پهلوی به دلیل فشارهای بینالمللی در زمینه حقوق بشر آزاد شد. میلانی پس از آزادی، از سال ۱۳۵۸ تا ۱۳۶۶ به عنوان استاد در دانشکده حقوق و علوم سیاسی دانشگاه تهران به تدریس مشغول بود. در سال ۱۳۸۰، او به عنوان پژوهشگر به موسسه هوور در دانشگاه استنفورد پیوست و به فعالیتهای علمی خود ادامه داد. از جمله آثار برجسته او میتوان به کتاب \"ایرانیان نامدار\" اشاره کرد که در سال ۲۰۰۹ توسط دانشگاه سیراکیوس به چاپ رسید و به بررسی نقش افراد اثرگذار در دوران محمدرضا شاه پهلوی میپردازد. همچنین از دیگر آثار او میتوان به \"مرشد و مارگاریتا\"، \"معمای هویدا ابوالهول ایرانی\" و \"تجدد و تجددستیزی در ایران\" اشاره نمود.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Professor_Abbas_Milani%2C_Hamid_and_Christina_Moghadam_Director_of_Iranian_Studies%2C_Stanford_University_%2815951265501%29_%28cropped%29.jpg/220px-Professor_Abbas_Milani%2C_Hamid_and_Christina_Moghadam_Director_of_Iranian_Studies%2C_Stanford_University_%2815951265501%29_%28cropped%29.jpg"
+      },
+      {
+        "text": "- احمد کریمی حکاک: احمد کریمی حکاک، نویسنده، مترجم و پژوهشگر ادبی معاصر، در ۱۶ بهمن ۱۳۲۲ در مشهد چشم به جهان گشود. وی پس از فارغالتحصیلی از دانشگاه تهران در رشته ادبیات انگلیسی در سال ۱۳۴۵، برای ادامه تحصیل به آمریکا رفت و در سال ۱۳۵۸ دکترای ادبیات تطبیقی خود را از دانشگاه راتگرز اخذ نمود. موضوع پایاننامه او «شاهنامه فردوسی در فرانسه و انگلستان ۱۷۷۰-۱۸۶۰» بود. از سال ۱۳۶۳ به آمریکا مهاجرت کرد و با دانشگاه تگزاس در آستین همکاری نمود. از سال ۱۳۸۳ نیز به عنوان استاد در دانشگاه مریلند مشغول به تدریس است. از جمله آثار او میتوان به «گزیده اشعار کارل سندبرگ»، «بلندیهای ماچوپیچو از پابلو نرودا»، «تام جونز»، «سرچشمههای داستان کوتاه فارسی» و «طلیعه تجدد در شعر فارسی» اشاره کرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Ahmad_karimi-hakkak_9658.JPG/250px-Ahmad_karimi-hakkak_9658.JPG"
+      },
+      {
+        "text": "- مهدی گلشنی: مهدی گلشنی، فیزیکدان برجسته، نظریهپرداز و پژوهشگر فلسفه علم، در سال ۱۳۱۷ در شهر اصفهان متولد شد. او که در دوران معاصر فعالیت دارد، علاوه بر فیزیک، در زمینههای ترجمه، تدریس دانشگاهی و عضویت در شورای عالی انقلاب فرهنگی و فرهنگستان علوم ایران نیز نقش داشته است. گلشنی پس از فارغالتحصیلی از دانشگاه برکلی در سال ۱۳۴۸ با مدرک دکتری در رشته فیزیک (گرایش ذرات بنیادی)، در سال ۱۳۶۴ به رتبه استادی در دانشگاه صنعتی شریف ارتقا یافت. وی همچنین به عنوان چهره ماندگار در عرصه فیزیک برگزیده شد و جایزه کتاب سال جمهوری اسلامی ایران را نیز دریافت کرده است. در بهمن ماه ۱۳۹۶، وی در سخنرانی خود در دانشگاه صنعتی شریف، نسبت به افت کیفیت دانشگاهها و تمرکز بیش از حد بر چاپ مقاله انتقاد کرد.",
+        "image": "https://upload.wikimedia.org/wikipedia/fa/6/6a/Mehdi_Golshani.jpg"
+      },
+      {
+        "text": "- محمد شاهیده پور: محمد شاهیده پور، مهندس برق برجسته و چهرهای شناخته شده در عرصه علم و فناوری، در دوران معاصر فعالیت داشته است. او علاوه بر استادی و ریاست دانشکده، به عنوان نویسنده، ویراستار و عضو فرهنگستان مهندسی نیز شناخته میشود. از جمله افتخارات ایشان میتوان به دریافت جایزه برک هیز در سال ۱۳۸۶ به پاس شناسایی آکادمیک جامعه الکترونیک قدرت و جایزه بهترین مقاله جامعه الکترونیک قدرت در سال ۱۳۸۴ اشاره کرد. شاهیده پور همچنین در سال ۱۳۹۵ به دلیل دستاوردهای پژوهشی در زمینه برنامهریزی تولید انرژی، به عضویت فرهنگستان مهندسی آمریکا درآمد و پروژههای متعددی در زمینه ریزشبکه از جمله ریزشبکه دانشگاهی، سلولهای خورشیدی و شبکههای فرودگاهی را به اجرا درآورده است. او همچنین صاحب تالیفاتی ارزشمند از جمله ۵ کتاب در زمینه قدرت و بیش از ۳۰۰ مقاله علمی است.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Shahidehpour2018.jpg/250px-Shahidehpour2018.jpg"
+      }
+    ],
+    "raw_answer": "با توجه به اطلاعات موجود در متن، تصویر متعلق به عباس ملکزاده میلانی است.",
+    "selected_answer": null,
+    "correct_answer": "عباس میلانی"
   }
 ]
