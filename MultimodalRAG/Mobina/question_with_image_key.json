@@ -1270,5 +1270,69 @@
       "انوشه انصاری"
     ],
     "answer": "علی اکبر موسوی موحدی"
-  }
+  },
+  {
+    "id": "qs108",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREvPKceVoN-BODcL49QBSi8jdcaGSe9wr67IKxP9Ed_Ztigio_5Jvh7sm5sjkQMTikWDIX2bX_vUiBJnnw2oTAIEl1ofNYsKd--28OeM0",
+    "options": ["فردوسی", "محمدرضا عارف",  "حافظ", "باقر لاریجانی"],
+    "answer": "باقر لاریجانی"
+}
+,
+{
+    "id": "qs109",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://s8.uupload.ir/files/mithridates_vi_louvre_p1r.jpg",
+    "options": ["مهرداد ششم", "محمدرضا عارف",  "حافظ", "انوشه انصاری"],
+    "answer": "مهرداد ششم"
+},
+{
+    "id": "qs110",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr48rjz2M-Hzjt_sNOKTxNtX7Wwe2nY6oi5nM_A2IPmX7rGzFTLZkev1HvU0INp1KtdVg&usqp=CAU",
+    "options": ["باقر لاریجانی", "محمدرضا عارف",  "ابن سینا", "انوشه انصاری"],
+    "answer": "این سینا"
+},
+{
+    "id": "qs111",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fanjom.ir%2Fen%2Fcelebrities%2Fhaj-molla-hadi-sabzevari&psig=AOvVaw2q4L8wNwF-kmZ4VvWe7iO5&ust=1757426866686000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjElbaryY8DFQAAAAAdAAAAABAL",
+    "options": ["ملاحسن سبزواری", "محمدرضا عارف",  "حافظ", "انوشه انصاری"],
+    "answer": "ملاحسن سبزواری"
+},
+{
+    "id": "qs112",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAiIa4TS_wxiZwh6mVGHdcnIeBvPJSa-1jA&s",
+    "options": ["فردوسی", "محمدرضا عارف",  "ملاحسن سبزواری","حافظ"],
+    "answer": "حافظ"
+},
+{
+    "id": "qs113",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2z4Ji6fvF28NKUw7cz3VTXwh15ghtl4wjSQW5iaa207I1AhrLyapVOv2mTQqxxl4HKrM&usqp=CAU",
+    "options": ["فردوسی", "محمدرضا عارف", "ملاحسن سبزواری", "انوشه انصاری"],
+    "answer": "ملاحسن سبزواری"
+},
+{
+    "id": "qs114",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fparvaresheafkar.com%2Fbiography%2Fanousheh-ansari%2F&psig=AOvVaw23SBSmLOx3xk242IC4TSj1&ust=1757428341432000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODtqJOxyY8DFQAAAAAdAAAAABAE",
+    "options": ["فردوسی", "محمدرضا عارف",  "حافظ", "انوشه انصاری"],
+    "answer": "انوشه انصاری"
+},
+{
+    "id": "qs115",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://www.milanibooks.com/sites/default/files/Abbas-Milani-Portrait.jpg",
+    "options": ["فردوسی", "عباس میلانی",  "حافظ", "انوشه انصاری"],
+    "answer": "عباس میلانی"
+},
+{
+    "id": "qs116",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Milani_Abbas_cropped.jpg",
+    "options": ["فردوسی", "محمدرضا عارف",  "عباس میلانی", "انوشه انصاری"],
+    "answer": "عباس میلانی"
+}
 ]
