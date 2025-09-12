@@ -1045,27 +1045,27 @@
   },
   {
     "id": "qs88",
-    "question": "کدام یک از دانشمندان معاصر زیر فاقد مو هستند؟",
+    "question": "کدام یک از دانشمندان معاصر زیر موی سر ندارند؟",
     "options": [
-      "الآثار الباقیه",
+      "امید کردستانی",
       "محمدرضا عارف",
       "محسن عادلی",
-      "احمدرضا دهپور"
+      "علی گرجی"
     ],
-    "answer": "احمدرضا دهپور",
-    "image": null
+    "answer": "علی گرجی",
+    "image": "null"
   },
   {
     "id": "qs89",
-    "question": "موهای کدام یک از فیزیکدانان معاصر زیر مشکی است؟",
+    "question": "کدامیک موهای قهوه ای فرفری دارد؟ ",
     "options": [
-      "کاوه پهلوان",
+      "علی اکبر موسوی موحدی",
       "محمدرضا عارف",
       "شفیعی کدکنی",
-      "مهران کاردار"
+      "انوشه انصاری"
     ],
-    "answer": "مهران کاردار",
-    "image": null
+    "answer": "انوشه انصاری",
+    "image": "null"
   },
   {
     "id": "qs90",
@@ -1074,36 +1074,47 @@
       "باقر لاریجانی",
       "محمدرضا عارف",
       "شفیعی کدکنی",
-      "زرتشت"
+      "کارولوکس"
     ],
     "answer": "باقر لاریجانی",
-    "image": null
+    "image": "null"
   },
   {
     "id": "qs91",
-    "question": "موهای کدام یک از فیسلوفان قرن چهارم قهوهای است؟",
+    "question": "کدامیک موهای بلند مشکی دارد؟",
     "options": [
-      "کاوه پهلوان",
-      "زرتشت",
-      "فارابی",
-      "مهران کاردار"
+      "وارتان گریگوریان",
+      "محمّدرضا حکیمی",
+      "سید حسین نصر",
+      "رکسانا مصلحی "
     ],
-    "answer": "فارابی",
-    "image": null
+    "answer": "رکسانا مصلحی ",
+    "image": "null"
   },
   {
     "id": "qs92",
-    "question": " کدام یک از اندیشمندان قرن ششم دارای ریش های بلند است؟",
+    "question": " کدام یک دارای ریش های بلند است؟",
     "options": [
-      "کاوه پهلوان",
+      "محمدمهدی اردبیلی",
       "محمدرضا عارف",
-      "شفیعی کدکنی",
-      "زکریا رازی"
+      "رکسانا مصلحی",
+      "مسعود علیمحمدی"
     ],
-    "answer": "زکریا رازی",
-    "image": null
+    "answer": "محمدمهدی اردبیلی",
+    "image": "null"
   },
-  {
+    {
+    "id": "qs87",
+    "question": "کدام یک از سیاسمتداران معاصر عینکی هستند؟",
+    "options": [
+      "غلامحسین ابراهیمی دینانی",
+      "شفیعی کدکنی",
+      "محسن عادلی",
+      "محمدرضا عارف"
+    ],
+    "answer": "محمدرضا عارف",
+    "image": "null"
+  },{
     "id": "qs93",
     "question": " کدام یک از نویسندگان معاصر دارای ریش های بلند است؟",
     "options": [
@@ -1113,226 +1124,54 @@
       "زکریا رازی"
     ],
     "answer": "محمدمهدی اردبیلی",
-    "image": null
-  },
-  {
-    "id": "qs94",
-    "question": "موهای کدام یک از فیزیکدانان معاصر زیر مشکی است؟",
-    "options": [
-      "کاوه پهلوان",
-      "محمدرضا عارف",
-      "شفیعی کدکنی",
-      "مهران کاردار"
-    ],
-    "answer": "مهران کاردار",
-    "image": null
-  },
-  {
-    "id": "qs95",
-    "question": "موهای کدام یک از فیزیکدانان معاصر زیر عینکی است؟",
-    "options": [
-      "داریوش رضایی",
-      "محمدمهدی اردبیلی",
-      "زرتشت",
-      "مهران کاردار"
-    ],
-    "answer": "مهران کاردار",
-    "image": null
-  },
-  {
-    "id": "qs96",
-    "question": "کدام یک از فیزیکدانان معاصر ریش ندارد؟",
-    "options": [
-      "مریم میرزاخانی",
-      "محمدرضا عارف",
-      "داریوش رضایی",
-      "زکریای رازی"
-    ],
-    "answer": "داریوش رضایی",
-    "image": null
-  },
-  {
-    "id": "qs97",
-    "question": "موهای کدام یک از فیزیکدانان معاصر زیر عینکی است؟",
-    "options": [
-      "علی اکبر موسوی موحدی",
-      "مریم میرزاخانی",
-      "زرتشت",
-      "داریوش رضایی"
-    ],
-    "answer": "علی اکبر موسوی موحدی",
-    "image": null
-  },
-  {
-    "id": "qs98",
-    "question": "کدام یک از نویسندگان معاصر دارای پوست روشن است؟",
-    "options": [
-      "احمد کریمی حکاک",
-      "مریم میرزاخانی",
-      "داریوش رضایی",
-      "مهران کاردار"
-    ],
-    "answer": "احمد کریمی حکاک",
-    "image": null
-  },
-  {
-    "id": "qs99",
-    "question": "موهای کدام یک از ریاضیدانان معاصر زیر مشکی است؟",
-    "options": [
-      "مریم میرزاخانی",
-      "محمدرضا عارف",
-      "شفیعی کدکنی",
-      "مهران کاردار"
-    ],
-    "answer": "مریم میرزاخانی",
-    "image": null
-  },
-  {
-    "id": "qs100",
-    "question": "موهای کدام یک از افراد زیر قهوه ای است؟",
-    "options": [
-      "مریم میرزاخانی",
-      "محمدرضا عارف",
-      "شفیعی کدکنی",
-      "انوشه انصاری"
-    ],
-    "answer": "انوشه انصاری",
-    "image": null
-  },
-  {
-    "id": "qs101",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://api2.zoomg.ir/media/2021-5-maryam-mirzakhani-66cc7d0b2b5676090d021d66?w=1680&q=80",
-    "options": [
-      "مریم میرزاخانی",
-      "محمدرضا عارف",
-      "شفیعی کدکنی",
-      "انوشه انصاری"
-    ],
-    "answer": "مریم میرزاخانی"
-  },
+    "image": "null"
+  }, 
   {
     "id": "qs102",
     "question": "این تصویر متعلق به کیست؟",
-    "image": "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1396/04/24/1396042412504843511401054.jpg",
+    "image": "https://th.bing.com/th/id/OIP.WtVe1Muo72m38qk320btFwAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "options": [
-      "مریم میرزاخانی",
+      "مسعود علیمحمدی",
       "محمدرضا عارف",
       "شفیعی کدکنی",
       "انوشه انصاری"
     ],
-    "answer": "مریم میرزاخانی"
+    "answer": "انوشه انصاری"
   },
   {
     "id": "qs103",
     "question": "این تصویر متعلق به کیست؟",
-    "image": "https://cdn.55online.news/thumbnail/5DDAYaeWLsLi/vLgO7HQ152ncAYC4vUQ0VWVNX1LVNCrq1u8Hb3mD5ugCp1MIRB6dgEGTHdeDLuy2Nzr5tvFmhlvm00fmC_XgTQcGdbRSLcl2Jsc2X7R9ly47nya75GnlGxZ1ESdc5y5K/%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7+%D8%B9%D8%A7%D8%B1%D9%81.jpg",
+    "image": "https://tse4.mm.bing.net/th/id/OIP.nNgc3jaBBBfWquo4jfAkPQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "options": [
-      "مریم میرزاخانی",
+      "مصطفی احمدی روشن",
       "محمدرضا عارف",
       "شفیعی کدکنی",
       "انوشه انصاری"
     ],
-    "answer": "محمدرضا عارف"
-  },
-  {
-    "id": "qs104",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://photokade.com/wp-content/uploads/AnoushehAnsari-photokade-06.jpg",
-    "options": [
-      "مریم میرزاخانی",
-      "محمدرضا عارف",
-      "شفیعی کدکنی",
-      "انوشه انصاری"
-    ],
-    "answer": "انوشه انصاری"
+    "answer": "مصطفی احمدی روشن"
   },
   {
     "id": "qs105",
     "question": "این تصویر متعلق به کیست؟",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-3t7rAI4HB6_I8IfhlNJbh2HoCrFTdBUbg&s",
+    "image": "https://web.mit.edu/physics/images/faculty/kardar_mehran.jpg",
     "options": [
       "مریم میرزاخانی",
-      "محمدرضا عارف",
-      "شفیعی کدکنی",
+      "محمد اردبیلی",
+      "مهران کاردار",
       "انوشه انصاری"
     ],
-    "answer": "شفیعی کدکنی"
+    "answer": "مهران کاردار"
   },
   {
     "id": "qs107",
     "question": "این تصویر متعلق به کیست؟",
-    "image": "https://profile.ut.ac.ir/image/edu/teacher?img_id=120487088&t=1756961423511",
+    "image": "https://tse3.mm.bing.net/th/id/OIP.7i-Pck6lVkXJgJFYScESiwHaJo?r=0&w=720&h=937&rs=1&pid=ImgDetMain&o=7&rm=3",
     "options": [
       "علی اکبر موسوی موحدی",
-      "محمدرضا عارف",
+      "کارو لوکاس قوکاسیان",
       "شفیعی کدکنی",
       "انوشه انصاری"
     ],
-    "answer": "علی اکبر موسوی موحدی"
-  },
-  {
-    "id": "qs108",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREvPKceVoN-BODcL49QBSi8jdcaGSe9wr67IKxP9Ed_Ztigio_5Jvh7sm5sjkQMTikWDIX2bX_vUiBJnnw2oTAIEl1ofNYsKd--28OeM0",
-    "options": ["فردوسی", "محمدرضا عارف",  "حافظ", "باقر لاریجانی"],
-    "answer": "باقر لاریجانی"
-}
-,
-{
-    "id": "qs109",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://s8.uupload.ir/files/mithridates_vi_louvre_p1r.jpg",
-    "options": ["مهرداد ششم", "محمدرضا عارف",  "حافظ", "انوشه انصاری"],
-    "answer": "مهرداد ششم"
-},
-{
-    "id": "qs110",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr48rjz2M-Hzjt_sNOKTxNtX7Wwe2nY6oi5nM_A2IPmX7rGzFTLZkev1HvU0INp1KtdVg&usqp=CAU",
-    "options": ["باقر لاریجانی", "محمدرضا عارف",  "ابن سینا", "انوشه انصاری"],
-    "answer": "این سینا"
-},
-{
-    "id": "qs111",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fanjom.ir%2Fen%2Fcelebrities%2Fhaj-molla-hadi-sabzevari&psig=AOvVaw2q4L8wNwF-kmZ4VvWe7iO5&ust=1757426866686000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjElbaryY8DFQAAAAAdAAAAABAL",
-    "options": ["ملاحسن سبزواری", "محمدرضا عارف",  "حافظ", "انوشه انصاری"],
-    "answer": "ملاحسن سبزواری"
-},
-{
-    "id": "qs112",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbAiIa4TS_wxiZwh6mVGHdcnIeBvPJSa-1jA&s",
-    "options": ["فردوسی", "محمدرضا عارف",  "ملاحسن سبزواری","حافظ"],
-    "answer": "حافظ"
-},
-{
-    "id": "qs113",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2z4Ji6fvF28NKUw7cz3VTXwh15ghtl4wjSQW5iaa207I1AhrLyapVOv2mTQqxxl4HKrM&usqp=CAU",
-    "options": ["فردوسی", "محمدرضا عارف", "ملاحسن سبزواری", "انوشه انصاری"],
-    "answer": "ملاحسن سبزواری"
-},
-{
-    "id": "qs114",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fparvaresheafkar.com%2Fbiography%2Fanousheh-ansari%2F&psig=AOvVaw23SBSmLOx3xk242IC4TSj1&ust=1757428341432000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCODtqJOxyY8DFQAAAAAdAAAAABAE",
-    "options": ["فردوسی", "محمدرضا عارف",  "حافظ", "انوشه انصاری"],
-    "answer": "انوشه انصاری"
-},
-{
-    "id": "qs115",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://www.milanibooks.com/sites/default/files/Abbas-Milani-Portrait.jpg",
-    "options": ["فردوسی", "عباس میلانی",  "حافظ", "انوشه انصاری"],
-    "answer": "عباس میلانی"
-},
-{
-    "id": "qs116",
-    "question": "این تصویر متعلق به کیست؟",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Milani_Abbas_cropped.jpg",
-    "options": ["فردوسی", "محمدرضا عارف",  "عباس میلانی", "انوشه انصاری"],
-    "answer": "عباس میلانی"
-}
+    "answer": "کارو لوکاس قوکاسیان"
+  }
 ]
