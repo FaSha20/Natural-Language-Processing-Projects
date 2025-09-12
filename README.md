@@ -21,3 +21,18 @@ TF-IDF Baseline: Retrieves answers using cosine similarity over TF-IDF vectors.
 Zero-Shot GLOT500: Uses a pre-trained GLOT500 transformer to encode and retrieve without domain-specific training.
 Fine-Tuned Model: Fine-tunes GLOT500 with QA pairs using contrastive loss for improved retrieval.
 #### step 3: Human Evaluation & Results
+
+
+### 🧪 Phase 3: MultimodalRAG - Persian Scientists & Philosophers QA System
+
+This project builds a multimodal Retrieval-Augmented Generation (RAG) pipeline designed to answer questions about Persian scientists and philosophers using both text and image data. The system combines CLIP-based models for encoding, a ChromaDB vector database for retrieval, and a multimodal language model to generate accurate and context-aware answers.
+The workflow includes three main phases:
+
+#### Preprocessing: 
+Collecting and cleaning structured JSON records, downloading images, generating fluent Persian text, and storing multimodal embeddings.
+#### Implementation: 
+Building a retrieval system that supports text-only, image-only, and combined multimodal queries, and integrating it with a generative model (google/gemma-3-4b-it) to create a full QA pipeline.
+#### Evaluation: 
+Measuring performance using metrics like precision, recall, and hit@k, while visualizing both retrieval quality and generated answers.
+
+This project serves as a foundation for developing advanced Persian-language cultural and educational AI systems, enabling applications like biographical summarization, question answering, and virtual museum assistants.
