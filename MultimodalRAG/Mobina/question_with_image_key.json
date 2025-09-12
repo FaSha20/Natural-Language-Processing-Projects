@@ -1035,9 +1035,9 @@
     "id": "qs87",
     "question": "کدام یک از سیاسمتداران معاصر عینکی هستند؟",
     "options": [
-      "الآثار الباقیه",
+      "وارتان گریگوریان",
       "شفیعی کدکنی",
-      "محسن عادلی",
+      "منوچهر آشتیانی",
       "محمدرضا عارف"
     ],
     "answer": "محمدرضا عارف",
@@ -1104,7 +1104,7 @@
     "image": "null"
   },
     {
-    "id": "qs87",
+    "id": "qs93",
     "question": "کدام یک از سیاسمتداران معاصر عینکی هستند؟",
     "options": [
       "غلامحسین ابراهیمی دینانی",
@@ -1114,8 +1114,9 @@
     ],
     "answer": "محمدرضا عارف",
     "image": "null"
-  },{
-    "id": "qs93",
+  },
+  {
+    "id": "qs94",
     "question": " کدام یک از نویسندگان معاصر دارای ریش های بلند است؟",
     "options": [
       "محمدمهدی اردبیلی",
@@ -1125,9 +1126,33 @@
     ],
     "answer": "محمدمهدی اردبیلی",
     "image": "null"
-  }, 
+  },
   {
-    "id": "qs102",
+    "id": "qs95",
+    "question": "کدام یک از دانشمندان معاصر زیر موی سر ندارند؟",
+    "options": [
+      "امید کردستانی",
+      "علی گرجی",
+      "محسن عادلی",
+      "محمدرضا عارف"
+    ],
+    "answer": "علی گرجی",
+    "image": "null"
+  },
+  {
+    "id": "qs96",
+    "question": "کدام یک از افراد زیر کلاه بر سر دارد؟",
+    "options": [
+      "محمدمهدی اردبیلی",
+      "محمدرضا عارف",
+      "شفیعی کدکنی",
+      "کاوه پهلوان"
+    ],
+    "answer": "شفیعی کدکنی",
+    "image": "null"
+  },
+  {
+    "id": "qs97",
     "question": "این تصویر متعلق به کیست؟",
     "image": "https://th.bing.com/th/id/OIP.WtVe1Muo72m38qk320btFwAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
     "options": [
@@ -1139,7 +1164,19 @@
     "answer": "انوشه انصاری"
   },
   {
-    "id": "qs103",
+    "id": "qs98",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://th.bing.com/th/id/OIP.WtVe1Muo72m38qk320btFwAAAA?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "options": [
+      "مسعود علیمحمدی",
+      "محمدرضا عارف",
+      "شفیعی کدکنی",
+      "انوشه انصاری"
+    ],
+    "answer": "انوشه انصاری"
+  },
+  {
+    "id": "qs99",
     "question": "این تصویر متعلق به کیست؟",
     "image": "https://tse4.mm.bing.net/th/id/OIP.nNgc3jaBBBfWquo4jfAkPQAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
     "options": [
@@ -1151,7 +1188,7 @@
     "answer": "مصطفی احمدی روشن"
   },
   {
-    "id": "qs105",
+    "id": "qs100",
     "question": "این تصویر متعلق به کیست؟",
     "image": "https://web.mit.edu/physics/images/faculty/kardar_mehran.jpg",
     "options": [
@@ -1163,7 +1200,7 @@
     "answer": "مهران کاردار"
   },
   {
-    "id": "qs107",
+    "id": "qs101",
     "question": "این تصویر متعلق به کیست؟",
     "image": "https://tse3.mm.bing.net/th/id/OIP.7i-Pck6lVkXJgJFYScESiwHaJo?r=0&w=720&h=937&rs=1&pid=ImgDetMain&o=7&rm=3",
     "options": [
@@ -1173,5 +1210,29 @@
       "انوشه انصاری"
     ],
     "answer": "کارو لوکاس قوکاسیان"
+  },
+  {
+    "id": "qs102",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://www.unesco.org/sites/default/files/styles/best_image/public/infocus_mirzakhani.jpg?itok=3QO5bjrp",
+    "options": [
+      "شفیعی کدکنی",
+      "محمدرضا عارف",
+      "مریم میرزاخانی",
+      "انوشه انصاری"
+    ],
+    "answer": "مریم میرزاخانی"
+  },
+  {
+    "id": "qs103",
+    "question": "این تصویر متعلق به کیست؟",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Moosavi-movahedi-Photo_%282%29.jpg",
+    "options": [
+      "علی اکبر موسوی موحدی",
+      "محمدرضا عارف",
+      "مریم میرزاخانی",
+      "انوشه انصاری"
+    ],
+    "answer": "علی اکبر موسوی موحدی"
   }
 ]
